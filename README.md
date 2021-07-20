@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### ✍ Lenguages and technologies I am familiar with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)  
-![C#](https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=csharp)
+![C#](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=csharp)
 
 
 
