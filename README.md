@@ -4,7 +4,7 @@
 
  He starts his day with “Eggs and Toast" and lives by the motto:  "I was born to make mistakes, not to fake perfection."
 
-- ❤ I love to discover new wonderful places around the world as much as he loves to explore new technologies and techniques.
+- ❤ I love to discover new wonderful places around the world as much as I love to explore new technologies and techniques.
 - 😄 I starts my day with “Eggs and Toast"
 - 🥅 I am constantly learning new technologies
 - ⚡ I live by the motto:  "I was born to make mistakes, not to fake perfection."
