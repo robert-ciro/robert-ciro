@@ -1,4 +1,5 @@
-### Hola 🙋‍♂️, my name is Robert, My mission as a software engineer is not only to try to solve problems but help to identify the challenge and provide the right, or a better way of doing things, summarizing I want to make things that make a difference.
+### Hola 🙋‍♂️, my name is Robert, My mission as a software engineer is to endeavor to solve problems, but give my contributions in identifying the challenge you face with. As a professional, I pledge to provide the right or better way in which it might operate.
+To sum up, I want to make things that make a difference
 
 ## Some facts about me:
 
