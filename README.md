@@ -1,4 +1,4 @@
-### Hola 👋, my name is Robert, My mission as a software engineer is not only to try to solve problems but help to identify the challenge and provide the right, or a better way of doing things, summarizing I want to make things that make a difference.
+### Hola 🙋‍♂️, my name is Robert, My mission as a software engineer is not only to try to solve problems but help to identify the challenge and provide the right, or a better way of doing things, summarizing I want to make things that make a difference.
 
 ## Some facts about me:
 
@@ -31,3 +31,7 @@
 ![SCRUM](https://img.shields.io/badge/-SCRUM-090909?style=for-the-badge&logo=scrumalliance)
 ![CI-CD](https://img.shields.io/badge/-CI%2FCD-blue)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robert-alexander-p-44570265/)
