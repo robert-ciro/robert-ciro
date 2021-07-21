@@ -35,3 +35,5 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robert-alexander-p-44570265/)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-090909?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/16313339/robert/)
+
