@@ -3,7 +3,7 @@
 ## Some facts about me:
 
 - ❤ I love to discover new wonderful places around the world as much as I love to explore new technologies and techniques.
-- 😄 I starts my day with “Eggs and Toast"
+- 😄 I start my day with “Eggs and Toast"
 - 🌱 I am constantly learning new technologies
 - ⚡ I live by the motto:  "I was born to make mistakes, not to fake perfection."
 
