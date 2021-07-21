@@ -8,7 +8,7 @@
 - ⚡ I live by the motto:  "I was born to make mistakes, not to fake perfection."
 
 
-### ✍ Lenguages and technologies I am familiar with:
+### ✍ Languages  and technologies I am familiar with:
 ![C#](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=csharp)
 ![Dotnet](https://img.shields.io/badge/dotnet-090909?style=for-the-badge&logo=dotnet)
 ![Asp.netCore](https://img.shields.io/badge/asp.netCore-090909?style=for-the-badge&logo=dotnet)
