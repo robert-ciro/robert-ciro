@@ -18,7 +18,7 @@
 ![SSIS](https://img.shields.io/badge/SSIS-090909?style=for-the-badge&logo=microsoftsqlserver)
 ![SSAS](https://img.shields.io/badge/SSAS-090909?style=for-the-badge&logo=microsoftsqlserver)
 ![Angular](https://img.shields.io/badge/angular-090909?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/angular-090909?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Html5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
