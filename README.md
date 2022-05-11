@@ -1,12 +1,15 @@
 ### Hola 🙋‍♂️, my name is Robert, My mission as a software engineer is to endeavor to solve problems, and give my contributions in identifying the challenge you face with. As a professional, I pledge to provide the right or better way in which it might operate.
 ### To sum up, I want to make things that make a difference
 
-## Some facts about me:
 
+
+## Some facts about me:
 - ❤ I love to discover new wonderful places around the world as much as I love to explore new technologies and techniques.
 - 😄 I start my day with “Eggs and Toast"
 - 🌱 I am constantly learning new technologies
 - ⚡ I live by the motto:  "I was born to make mistakes, not to fake perfection."
+
+### My Current State: ![Status](https://badgen.net/https/robertgt-info.npkn.net/ng6ofdu3i2/)
 
 
 ### ✍ Languages  and technologies I am familiar with:
