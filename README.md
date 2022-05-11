@@ -9,7 +9,7 @@
 - 🌱 I am constantly learning new technologies
 - ⚡ I live by the motto:  "I was born to make mistakes, not to fake perfection."
 
-### I am currently ![Status](https://badgen.net/https/robertgt-info.npkn.net/ng6ofdu3i2/)
+### In this moment, I am ![Status](https://badgen.net/https/robertgt-info.npkn.net/ng6ofdu3i2/)
 
 
 ### ✍ Languages  and technologies I am familiar with:
