@@ -33,6 +33,7 @@
 ### 🔧 Tools and Methodologies: 
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-090909?style=for-the-badge&logo=azuredevops)
+![Microsoft Azure](https://img.shields.io/badge/-microsoft azure-090909?style=for-the-badge&logo=microsoftazure)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-090909?style=for-the-badge&logo=scrumalliance)
 ![CI-CD](https://img.shields.io/badge/-CI%2FCD-blue)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
